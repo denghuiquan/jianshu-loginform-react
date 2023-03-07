@@ -6,7 +6,7 @@ import AppStyles from './styles/App.style'
 import router from './Router'
 import { RootStoreProvider } from './store'
 
-chakraTheme.config.initialColorMode = 'dark'
+chakraTheme.config.initialColorMode = 'light'
 
 function App () {
   return (
